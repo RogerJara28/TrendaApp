@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trenda</string>
+
+    <string name="first_slide">choose your products</string>
+    <string name="second_slide">fast delivery</string>
+    <string name="third_slide">good delivery</string>
+
+    <string name="description">description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
